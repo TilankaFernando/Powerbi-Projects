@@ -55,3 +55,6 @@ ac-sample-data (1).xlsx - Shipment Data.csv
 ac-sample-data (1).xlsx - Dimension Data.csv
 
 ac-sample-data (1).xlsx - Calendar Table.csv
+
+📷 Screenshots:
+ ( https://github.com/TilankaFernando/Powerbi-Projects/blob/main/Chocolate%20Sale%20Dashboard%20screenshot.png)
